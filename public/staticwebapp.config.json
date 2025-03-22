@@ -1,9 +1,1 @@
-{
-  "routes": [
-    {
-      "route": "/hello-india",
-      "redirect": "https://calm-rock-0a25a7810.6.azurestaticapps.net/",
-      "statusCode": 301
-    }
-  ]
-}
+
